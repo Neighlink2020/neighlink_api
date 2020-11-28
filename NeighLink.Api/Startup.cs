@@ -67,6 +67,7 @@ namespace NeighLink.Api
                 #if DEBUG
                     // For Debug in Kestrel
                     c.SwaggerEndpoint( "/swagger/v2/swagger.json", "Web API V1" );
+                c.RoutePrefix = String.Empty;
                 #else
                    // To deploy on IIS
                    c.SwaggerEndpoint("/webapi/swagger/v1/swagger.json", "Web API V1");

@@ -928,7 +928,7 @@
       ]
     },
     "Microsoft.CSharp/4.5.0": {
-      "sha512": "EGoBmf3Na2ppbhPePDE9PlX81r1HuOZH5twBrq7couJZiPTjUnD3648balerQJO6EJ8Sj+43+XuRwQ7r+3tE3w==",
+      "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
       "type": "package",
       "path": "microsoft.csharp/4.5.0",
       "files": [
@@ -996,7 +996,7 @@
       ]
     },
     "Microsoft.DotNet.PlatformAbstractions/2.1.0": {
-      "sha512": "wkCXkBS0q+5hsbeikjfsHCGP3nNe1L1MrDEBPCBKm+4UH8nXqHLxDZuBrTYaVY85CGIx2y1qW90nO6b+ORAfrA==",
+      "sha512": "9KPDwvb/hLEVXYruVHVZ8BkebC8j17DmPb56LnqRF74HqSPLjCkrlFUjOtFpQPA2DeADBRTI/e69aCfRBfrhxw==",
       "type": "package",
       "path": "microsoft.dotnet.platformabstractions/2.1.0",
       "files": [
@@ -1208,7 +1208,7 @@
       ]
     },
     "Microsoft.Extensions.DependencyModel/2.1.0": {
-      "sha512": "3KPT6CLH0VEGr2um9aG1rYTmqfMVlkRuueFpN6AxeIKpcMA4OVHf4aNpgYXZ6oF+x4uh9VhK/66FgPCd1mMlnQ==",
+      "sha512": "nS2XKqi+1A1umnYNLX2Fbm/XnzCxs5i+zXVJ3VC6r9t2z0NZr9FLnJN4VQpKigdcWH/iFTbMuX6M6WQJcTjVIg==",
       "type": "package",
       "path": "microsoft.extensions.dependencymodel/2.1.0",
       "files": [
@@ -1286,7 +1286,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.0.1": {
-      "sha512": "oq9B289GvIVAo9xfJFNBuuLiE55OopBcS3oZlSYyispEcCigEcs6X6CJM4lfQVXegTkx+o2Z6Xx9EYcpHPKGfA==",
+      "sha512": "2G6OjjJzwBfNOO8myRV/nFrbTw5iA+DEm0N+qUqhrOmaVtn4pC77h38I1jsXGw5VH55+dPfQsqHD0We9sCl9FQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.0.1",
       "files": [
@@ -3341,23 +3341,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Users\\Marc\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UPC-2020-2\\DISENO_EXPERIMENTOS\\TRABAJO_FINAL\\Neighlink\\NeighLink\\NeighLink.Api\\NeighLink.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Marc\\Documents\\REPOSITORIOS EXPERIMENTOS\\neighlink_api\\NeighLink.Api\\NeighLink.Api.csproj",
       "projectName": "NeighLink.Api",
-      "projectPath": "D:\\UPC-2020-2\\DISENO_EXPERIMENTOS\\TRABAJO_FINAL\\Neighlink\\NeighLink\\NeighLink.Api\\NeighLink.Api.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\UPC-2020-2\\DISENO_EXPERIMENTOS\\TRABAJO_FINAL\\Neighlink\\NeighLink\\NeighLink.Api\\obj\\",
+      "projectPath": "C:\\Users\\Marc\\Documents\\REPOSITORIOS EXPERIMENTOS\\neighlink_api\\NeighLink.Api\\NeighLink.Api.csproj",
+      "packagesPath": "C:\\Users\\Marc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marc\\Documents\\REPOSITORIOS EXPERIMENTOS\\neighlink_api\\NeighLink.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3365,13 +3365,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/ingoliva/_packaging/ingoliva/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\UPC-2020-2\\DISENO_EXPERIMENTOS\\TRABAJO_FINAL\\Neighlink\\NeighLink\\NeighLink.DateLayer\\NeighLink.DateLayer.csproj": {
-              "projectPath": "D:\\UPC-2020-2\\DISENO_EXPERIMENTOS\\TRABAJO_FINAL\\Neighlink\\NeighLink\\NeighLink.DateLayer\\NeighLink.DateLayer.csproj"
+            "C:\\Users\\Marc\\Documents\\REPOSITORIOS EXPERIMENTOS\\neighlink_api\\NeighLink.DateLayer\\NeighLink.DateLayer.csproj": {
+              "projectPath": "C:\\Users\\Marc\\Documents\\REPOSITORIOS EXPERIMENTOS\\neighlink_api\\NeighLink.DateLayer\\NeighLink.DateLayer.csproj"
             }
           }
         }
@@ -3420,7 +3421,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

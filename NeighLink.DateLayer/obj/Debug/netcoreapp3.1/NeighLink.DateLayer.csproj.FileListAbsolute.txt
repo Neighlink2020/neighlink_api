@@ -9,3 +9,15 @@ D:\UPC-2020-2\DISENO_EXPERIMENTOS\TRABAJO_FINAL\Neighlink\NeighLink\NeighLink.Da
 D:\UPC-2020-2\DISENO_EXPERIMENTOS\TRABAJO_FINAL\Neighlink\NeighLink\NeighLink.DateLayer\obj\Debug\netcoreapp3.1\NeighLink.DateLayer.dll
 D:\UPC-2020-2\DISENO_EXPERIMENTOS\TRABAJO_FINAL\Neighlink\NeighLink\NeighLink.DateLayer\obj\Debug\netcoreapp3.1\NeighLink.DateLayer.pdb
 D:\UPC-2020-2\DISENO_EXPERIMENTOS\TRABAJO_FINAL\Neighlink\NeighLink\NeighLink.DateLayer\obj\Debug\netcoreapp3.1\NeighLink.DateLayer.genruntimeconfig.cache
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\bin\Debug\netcoreapp3.1\NeighLink.DateLayer.deps.json
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\bin\Debug\netcoreapp3.1\NeighLink.DateLayer.runtimeconfig.json
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\bin\Debug\netcoreapp3.1\NeighLink.DateLayer.runtimeconfig.dev.json
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\bin\Debug\netcoreapp3.1\NeighLink.DateLayer.dll
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\bin\Debug\netcoreapp3.1\NeighLink.DateLayer.pdb
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\obj\Debug\netcoreapp3.1\NeighLink.DateLayer.csprojAssemblyReference.cache
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\obj\Debug\netcoreapp3.1\NeighLink.DateLayer.AssemblyInfoInputs.cache
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\obj\Debug\netcoreapp3.1\NeighLink.DateLayer.AssemblyInfo.cs
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\obj\Debug\netcoreapp3.1\NeighLink.DateLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\obj\Debug\netcoreapp3.1\NeighLink.DateLayer.dll
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\obj\Debug\netcoreapp3.1\NeighLink.DateLayer.pdb
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\obj\Debug\netcoreapp3.1\NeighLink.DateLayer.genruntimeconfig.cache
