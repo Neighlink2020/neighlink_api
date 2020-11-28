@@ -34,7 +34,7 @@ namespace NeighLink.Api
                 options.SwaggerDoc( "v2",
                     new Microsoft.OpenApi.Models.OpenApiInfo
                     {
-                        Title = "NeighLink API V1",
+                        Title = "NeighLink API V2",
                         Description = "Swagger API Neighlink",
                         Version = "v2"
                     } );
@@ -64,14 +64,11 @@ namespace NeighLink.Api
 
             app.UseSwaggerUI( c =>
             {
-                #if DEBUG
+           
                     // For Debug in Kestrel
                     c.SwaggerEndpoint( "/swagger/v2/swagger.json", "Web API V1" );
                 c.RoutePrefix = String.Empty;
-                #else
-                   // To deploy on IIS
-                   c.SwaggerEndpoint("/webapi/swagger/v1/swagger.json", "Web API V1");
-                #endif
+                
             } );
         }
     }

@@ -1,0 +1,12 @@
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\bin\Release\netcoreapp3.1\NeighLink.DateLayer.deps.json
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\bin\Release\netcoreapp3.1\NeighLink.DateLayer.runtimeconfig.json
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\bin\Release\netcoreapp3.1\NeighLink.DateLayer.runtimeconfig.dev.json
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\bin\Release\netcoreapp3.1\NeighLink.DateLayer.dll
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\bin\Release\netcoreapp3.1\NeighLink.DateLayer.pdb
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\obj\Release\netcoreapp3.1\NeighLink.DateLayer.csprojAssemblyReference.cache
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\obj\Release\netcoreapp3.1\NeighLink.DateLayer.AssemblyInfoInputs.cache
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\obj\Release\netcoreapp3.1\NeighLink.DateLayer.AssemblyInfo.cs
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\obj\Release\netcoreapp3.1\NeighLink.DateLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\obj\Release\netcoreapp3.1\NeighLink.DateLayer.dll
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\obj\Release\netcoreapp3.1\NeighLink.DateLayer.pdb
+C:\Users\Marc\Documents\REPOSITORIOS EXPERIMENTOS\neighlink_api\NeighLink.DateLayer\obj\Release\netcoreapp3.1\NeighLink.DateLayer.genruntimeconfig.cache

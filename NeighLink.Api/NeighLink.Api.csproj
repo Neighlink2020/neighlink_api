@@ -15,5 +15,11 @@
     <ProjectReference Include="..\NeighLink.DateLayer\NeighLink.DateLayer.csproj" />
   </ItemGroup>
 
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties appsettings_1Development_1json__JSONSchema="https://json.schemastore.org/avro-avsc" />
+    </VisualStudio>
+  </ProjectExtensions>
+
 
 </Project>
