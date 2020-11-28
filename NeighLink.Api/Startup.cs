@@ -34,7 +34,7 @@ namespace NeighLink.Api
                 options.SwaggerDoc( "v2",
                     new Microsoft.OpenApi.Models.OpenApiInfo
                     {
-                        Title = "NeighLink API V2",
+                        Title = "NeighLink API V3.5",
                         Description = "Swagger API Neighlink",
                         Version = "v2"
                     } );
